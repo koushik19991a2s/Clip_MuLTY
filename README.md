@@ -1,6 +1,4 @@
 # Clip_MuLTY
-Clipping Multiple Shapefiles with Single one
-# Clip_MuLTY
 
 Clip_MuLTY is written in python and use for clipped multiple layers using single shapefile.
 
